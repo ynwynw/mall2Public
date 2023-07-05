@@ -68,6 +68,12 @@
 ![contents](./picture/picture18.png)
 ![contents](./picture/picture19.png)
 ![contents](./picture/picture20.png)
+![contents](./picture/picture21.png)
+![contents](./picture/picture22.png)
+![contents](./picture/picture23.png)
+![contents](./picture/picture24.png)
+![contents](./picture/picture25.png)
+![contents](./picture/picture26.png)
 
 ## 五、浏览地址
 前台访问地址：http://localhost:8080/
