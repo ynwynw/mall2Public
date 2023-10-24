@@ -6,7 +6,7 @@
 [https://blog.csdn.net/2303_76227485/article/details/131541546](https://blog.csdn.net/2303_76227485/article/details/131541546)**
 
 **视频演示：
-[https://www.bilibili.com/video/BV1pX4y1i7Ne/](https://www.bilibili.com/video/BV1pX4y1i7Ne/)**
+[https://www.bilibili.com/video/BV1VG41117VZ/](https://www.bilibili.com/video/BV1VG41117VZ/)**
 
 **毕业设计所有选题地址：
 [https://github.com/ynwynw/allProject](https://github.com/ynwynw/allProject)**
